@@ -1,0 +1,30 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lisovyi-Vladyslav/node-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lisovyi-Vladyslav/node-1/issues"
+  },
+  "homepage": "https://github.com/Lisovyi-Vladyslav/node-1#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^10.0.0",
+    "nanoid": "^4.0.1",
+    "nodemon": "^2.0.21",
+    "uuidv4": "^6.2.13",
+    "yargs": "^17.7.1"
+  }
+}
